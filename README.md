@@ -1,5 +1,7 @@
 # Become A Tentcoo Farmer
 
+[![Build And Deploy](https://github.com/tentcooFarm/become-a-tentcoo-farmer/actions/workflows/ci.deploy.yml/badge.svg)](https://github.com/tentcooFarm/become-a-tentcoo-farmer/actions/workflows/ci.deploy.yml)
+
 来自养鸡农场的师兄师姐杂七杂八的碎碎念
 
 ## 本地编译
